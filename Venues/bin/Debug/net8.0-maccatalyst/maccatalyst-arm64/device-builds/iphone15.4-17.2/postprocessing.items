@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="Venues.app/Contents/MacOS/Venues">
+      <BCSymbolMapName>Venues.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>Venues.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/device-builds/iphone15.4-17.2/mtouch-symbols.list</SymbolFile>
+      <DSymName>Venues.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

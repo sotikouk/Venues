@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Venues.NewVenuePage">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="SaveButton"
+                     Text="Save"
+                     Clicked="SaveButton_OnClicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="ExperienceEntry"
+                   Placeholder="Write your experience."/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

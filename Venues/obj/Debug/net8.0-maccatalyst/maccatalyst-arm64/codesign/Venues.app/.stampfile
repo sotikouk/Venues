@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Venues.app
