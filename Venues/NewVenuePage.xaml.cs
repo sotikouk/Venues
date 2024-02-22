@@ -15,13 +15,41 @@ public partial class NewVenuePage : ContentPage
         InitializeComponent();
     }
 
+    protected override async void OnAppearing()
+    {
+        base.OnAppearing();
+        var location = await Geolocation.GetLocationAsync();
+        var Pois = await VenuePlaces.GetPois(location.Latitude, location.Longitude);
+        venueListView.ItemsSource = Pois;
+    }
+
     private void SaveButton_OnClicked(object? sender, EventArgs e)
     {
-        Post post = new Post()
+        try
         {
-            Experience = ExperienceEntry.Text
-        };
-        App.Database.AddPostAsync(post);
-        Navigation.PushAsync(new HistoryPage());
+            var selectedVenue = venueListView.SelectedItem as Result;
+            var firstCategory = selectedVenue.categories.FirstOrDefault();
+            Post post = new Post()
+            {
+                Experience = ExperienceEntry.Text,
+                CategoryId = firstCategory.id,
+                CategoryName = firstCategory.name,
+                Address = selectedVenue.location.address,
+                Distance = selectedVenue.distance,
+                VenueName = selectedVenue.name,
+                Latitude = selectedVenue.geocodes.main.latitude,
+                Longitude = selectedVenue.geocodes.main.longitude
+            };
+            App.Database.AddPostAsync(post);
+            Navigation.PushAsync(new HistoryPage());
+        } 
+        catch (NullReferenceException nre)
+        {
+                
+        }
+        catch (Exception ex)
+        {
+                
+        }
     }
 }

@@ -222,6 +222,13 @@
 			vs3xegDnc73TxrKwYlP0rJFveB+50IbTSSHzfDAbzfU=
 			</data>
 		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IsZJ91/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=
+			</data>
+		</dict>
 		<key>MonoBundle/SQLite-net.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -1395,14 +1402,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yegyqzSBr+z1uSMU1BJF/bswhX4TiqZhTSucUb2eqwc=
+			KlCkk1oZoMcbSeULBE5Q5yA9JfoLrStyXdvvmoe6NiY=
 			</data>
 		</dict>
 		<key>MonoBundle/Venues.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NyRnBGk+FyYrwxgzAnPBY4H3ZvQvsjk7K6iqe6SAwi0=
+			0gFY2CW381D08w3QsXT61ISgOCxYrS/jQRyi4Pi2o2E=
 			</data>
 		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>

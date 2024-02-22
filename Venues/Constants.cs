@@ -3,7 +3,9 @@ using Venues.Model;
 
 namespace Venues;
 public static class Constants
+
 {
+    public static string fourSqrKey = "fsq3g9ObupoLPrsMhgWFVxP76Yys9iILqROi9h4cVz74a28=";
     public const string DatabaseFilename = "SQLiteDB.db";
 
     public const SQLite.SQLiteOpenFlags Flags =

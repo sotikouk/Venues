@@ -52,6 +52,7 @@
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/Microsoft.Maui.Essentials.dll
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/Microsoft.Maui.Graphics.dll
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/Microsoft.Maui.Maps.dll
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/Newtonsoft.Json.dll
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/SQLite-net.dll
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/SQLitePCLRaw.batteries_v2.dll
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Venues.app/SQLitePCLRaw.core.dll

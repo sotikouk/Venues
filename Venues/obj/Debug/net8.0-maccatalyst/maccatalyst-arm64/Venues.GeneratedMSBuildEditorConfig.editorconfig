@@ -58,6 +58,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Venues.NewVenuePage.xaml
 build_metadata.AdditionalFiles.TargetPath = NewVenuePage.xaml
 build_metadata.AdditionalFiles.RelativePath = NewVenuePage.xaml
 
+[/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/PostDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Venues.PostDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PostDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PostDetailPage.xaml
+
 [/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/ProfilePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Venues.ProfilePage.xaml

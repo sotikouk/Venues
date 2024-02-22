@@ -3,10 +3,11 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Venues.HistoryPage">
-    <ListView x:Name="PostListView">
+    <ListView x:Name="PostListView"
+              ItemSelected="PostListView_OnItemSelected">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <TextCell Text="{Binding Experience}" />
+                <TextCell Text="{Binding Experience}" Detail="{Binding VenueName}"/>
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>

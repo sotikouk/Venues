@@ -13,7 +13,37 @@
     <ContentPage.Content>
         <StackLayout>
             <Entry x:Name="ExperienceEntry"
-                   Placeholder="Write your experience."/>
+                   Placeholder="Write your experience!"/>
+            <ListView x:Name="venueListView"
+                      Margin="20, 0"
+                      HorizontalOptions="FillAndExpand">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Binding name}"
+                                       FontAttributes="Bold"/>
+                                <Label Grid.Row="1"
+                                       Text="{Binding address}"
+                                       TextColor="DodgerBlue"/>
+                                <Label Grid.Row="0"
+                                       Grid.Column="1"
+                                       
+                                       Text="{Binding distance, StringFormat='{0} meters'}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
