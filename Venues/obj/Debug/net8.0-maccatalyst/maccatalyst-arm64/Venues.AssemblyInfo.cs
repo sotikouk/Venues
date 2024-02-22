@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Venues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d19f89f24fb192043d5ee593b9c66130b011badd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0b36633374f33315db1dfdff9f12ea57edb891f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Venues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Venues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
