@@ -8,18 +8,7 @@ public partial class MainPage
         InitializeComponent();
     }
 
-    private void LoginBtn_OnClicked(object? sender, EventArgs e)
-    {
-        bool isEmailEmpty = string.IsNullOrEmpty(EmailEntry.Text);
-        bool isPasswdEmpty = string.IsNullOrEmpty(PasswdEntry.Text);
-
-        if (isEmailEmpty || isPasswdEmpty)
-        {
-            
-        }
-        else
-        {
+    private void LoginBtn_OnClicked(object? sender, EventArgs e){
             Navigation.PushAsync(new HomePage());
-        }
     }
 }

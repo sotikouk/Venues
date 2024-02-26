@@ -9,13 +9,15 @@ public class VenuePlaces
     {
         //using System.Net.Http.Headers;
         List<Result> poiPins = new List<Result>();
-        string uri = "https://api.foursquare.com/v3/places/search?ll={0}%2C{1}";
-        string url = string.Format(uri, latitude, longitude);
+        string uri = "https://api.foursquare.com/v3/places/search?ll="+latitude+"%2C"+longitude;
+        Console.WriteLine(uri);
+        uri = uri.Replace(',', '.');
+        //string url = string.Format(uri, latitude, longitude);
         var client = new HttpClient();
-        var request = new HttpRequestMessage(HttpMethod.Get, url);
+        var request = new HttpRequestMessage(HttpMethod.Get, uri);
 
-        request.Headers.Add("Accept", "application/json");
-        request.Headers.TryAddWithoutValidation("Authorization", Constants.fourSqrKey);
+        request.Headers.Add("accept", "application/json");
+        request.Headers.TryAddWithoutValidation("Authorization", Constants.FsqrKey);
 
         using (var response = await client.SendAsync(request))
         {

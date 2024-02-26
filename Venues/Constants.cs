@@ -6,6 +6,7 @@ public static class Constants
 
 {
     public static string fourSqrKey = "fsq3g9ObupoLPrsMhgWFVxP76Yys9iILqROi9h4cVz74a28=";
+    public static string FsqrKey = "fsq3YeW0ISYRC3UfHO449wkDoLouVA30sKlhJZn/rYkR7Lg=";
     public const string DatabaseFilename = "SQLiteDB.db";
 
     public const SQLite.SQLiteOpenFlags Flags =

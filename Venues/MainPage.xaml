@@ -9,18 +9,9 @@
             Spacing="25"
             VerticalOptions="Center"
             Margin="15">
-            <Entry x:Name="EmailEntry"
-                   Placeholder="eMail"
-                   Keyboard="Email"
-                   />
-            <Entry x:Name="PasswdEntry"
-                   Placeholder="Password" 
-                   IsPassword="True"
-                   />
-            
             <Button
                 x:Name="LoginBtn"
-                Text="Log in"
+                Text="Enter"
                 BackgroundColor="{StaticResource Blue}"
                 TextColor="White"
                 Clicked="LoginBtn_OnClicked"/>
