@@ -727,7 +727,6 @@
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/CarouselSpacingItemDecoration.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/CarouselViewAdapter_2.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/CarouselViewOnScrollListener.java
-/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/CarouselViewwOnGlobalLayoutListener.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/CenterSnapHelper.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/DataChangeObserver.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/EdgeSnapHelper.java
@@ -739,6 +738,7 @@
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/ItemContentView.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/ItemsViewAdapter_2.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/MauiCarouselRecyclerView.java
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/MauiCarouselRecyclerView_CarouselViewOnGlobalLayoutListener.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/MauiRecyclerView_3.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/NongreedySnapHelper.java
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-android/android/src/crc645d80431ce5f73f11/NongreedySnapHelper_InitialScrollListener.java
