@@ -7,7 +7,9 @@
               ItemSelected="PostListView_OnItemSelected">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <TextCell Text="{Binding Experience}" Detail="{Binding VenueName}"/>
+                <TextCell Text="{Binding Experience}" 
+                          Detail="{Binding VenueName}"
+                          TextColor="{StaticResource Blue}"/>
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>

@@ -5,10 +5,14 @@
              x:Class="Venues.HomePage">
     <TabbedPage.ToolbarItems>
         <ToolbarItem x:Name="AddButton" Text="Add"
+                     IconImageSource="add.png"
                      Clicked="AddButton_OnClicked"/>
     </TabbedPage.ToolbarItems>
-    <local:HistoryPage Title="History"/>
-    <local:MapPage Title="Map"/>
-    <local:ProfilePage Title="Profile"/>
+    <local:HistoryPage Title="History"
+                       IconImageSource="home.png"/>
+    <local:MapPage Title="Map"
+                   IconImageSource="map.png"/>
+    <local:ProfilePage Title="Profile"
+                       IconImageSource="user.png"/>
     
 </TabbedPage>

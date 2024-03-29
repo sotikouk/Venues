@@ -9,6 +9,22 @@
             Spacing="25"
             VerticalOptions="Center"
             Margin="15">
+            <Image Source="plane.png"
+                   HeightRequest="100"
+                   WidthRequest="100"/>
+            <Label Text="Visitor's Diary" 
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   Margin="40"
+                   FontSize="35"
+                   FontAttributes="Bold"
+                   TextColor="{StaticResource Blue}"/>
+            <Label Text="The application that allows you to write your experiences about locations and places you have visited."
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   Margin="40"
+                   FontSize="20"
+                   TextColor="{StaticResource Blue}"/>
             <Button
                 x:Name="LoginBtn"
                 Text="Enter"

@@ -54,7 +54,6 @@ public class PostsViewModel : INotifyPropertyChanged
     private void GenerateContacts()
     {
         PostsInfo = new ObservableCollection<Post>();
-        //PostsInfo = new ContactsInfoRepository().GetContactDetails(20);
         PopulateDB();
     }
 

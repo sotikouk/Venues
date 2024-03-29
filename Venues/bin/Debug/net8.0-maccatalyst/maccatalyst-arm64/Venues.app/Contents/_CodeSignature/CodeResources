@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		Py602DNzTIMZuQPVRQviCcbSnsA=
+		/kXBIPJThnEWKkKA6jub1uMsT7A=
 		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
@@ -28,9 +28,13 @@
 		<data>
 		tZRh3JV20tDPKdpsbav+Kwm4vks=
 		</data>
+		<key>Resources/add.png</key>
+		<data>
+		htUvV0U3iTNio1MK4MS2R2NzIrA=
+		</data>
 		<key>Resources/appicon.icns</key>
 		<data>
-		L9cHAOVSlaW2jMaBgy7GlIBZdZg=
+		DwLzbjDi9Gf1h3JeEsebqtymc04=
 		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
@@ -43,6 +47,26 @@
 		<key>Resources/dotnet_bot@3x.png</key>
 		<data>
 		Zt+VE+uuJQUze/d9zd3r+NdrtDw=
+		</data>
+		<key>Resources/home.png</key>
+		<data>
+		iuIrowHv97hxlDpumq2cm7nbovc=
+		</data>
+		<key>Resources/map.png</key>
+		<data>
+		YWHLJd5VdcK7gbHSqniVZKPgSIw=
+		</data>
+		<key>Resources/plane.png</key>
+		<data>
+		xPhLZ8RtTNp+02zWRqvVqR/qT2M=
+		</data>
+		<key>Resources/save.png</key>
+		<data>
+		c+xQw4DLzH469RqH0E187/LUtks=
+		</data>
+		<key>Resources/user.png</key>
+		<data>
+		8GkoAUg7adlpDC2hst/wumZ2ce0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1388,14 +1412,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3EW29AgvRyZY86csfceMdpScei+xNb1HMoN3+s1FAlo=
+			mvtWPd8xIng+IYoHJCexuP3AzIixWigndVTD93HbuHs=
 			</data>
 		</dict>
 		<key>MonoBundle/Venues.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ei9xcH3Wbv/1hmEuxBZAQH2tq8c71xNfxShMvLAms38=
+			qTOcvKNUpQsERaW9v86bvRELIMw0sAB9WxyFU1awK8w=
 			</data>
 		</dict>
 		<key>MonoBundle/WindowsBase.dll</key>
@@ -1689,7 +1713,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNqiHjPnJLMPdPTzgUtWziKGRTzP71o1sYVc9T906kw=
+			BIL1qsomOCaa1oNfqqhBqc/N9HGAyzvwTFqbmscNEeg=
 			</data>
 		</dict>
 		<key>Resources/MauiInfo.plist</key>
@@ -1720,11 +1744,18 @@
 			4/wSPlZYEyhrDxrn/NO7+vEg5OxSr+7wVbSYar9+xLM=
 			</data>
 		</dict>
+		<key>Resources/add.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c4zj8MZqXFw4446dY8mOt8I9zCZiEugDBC284zHaxko=
+			</data>
+		</dict>
 		<key>Resources/appicon.icns</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H4w+DqGNITnXOEy4UxkSBph9BjGxHf/ui2zq6lzv5a0=
+			m5Bd6DgGUCDQjjhnLdPzp+dZAJe9ggTj2VkJ3VQ8eZY=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot.png</key>
@@ -1746,6 +1777,41 @@
 			<key>hash2</key>
 			<data>
 			Up4t4C3+oRoTqJRc+zJSfhbhdg8R3zWbHkE+G9N4B9U=
+			</data>
+		</dict>
+		<key>Resources/home.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6LDMRLqLty4K1YGZ9Q/PEBBgBebDSFJhIc1FyMPV5rY=
+			</data>
+		</dict>
+		<key>Resources/map.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2TXKItd3CzLQtfklB3k5tGkJ/v5Fqb24f3OA1lvB7I=
+			</data>
+		</dict>
+		<key>Resources/plane.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e3SehBjfYin1sGLS774Cj7G0u9iI48k9Xwu9GOwM0mQ=
+			</data>
+		</dict>
+		<key>Resources/save.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K1Mky9fYb+EQyVguHkBw/lK/WvncF7tOo2P06TVbI7o=
+			</data>
+		</dict>
+		<key>Resources/user.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			prqrFwzqWLPzzLlTLfx/2f9w0eyNjVkfd0/S/7HeXPM=
 			</data>
 		</dict>
 	</dict>

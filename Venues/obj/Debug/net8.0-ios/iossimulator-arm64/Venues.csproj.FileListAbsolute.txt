@@ -288,9 +288,6 @@
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
-/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/dotnet_bot@3x.png
-/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/dotnet_bot@2x.png
-/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/dotnet_bot.png
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/mauiimage.stamp
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/f/MauiInfo.plist
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/mauifont.stamp
@@ -319,6 +316,12 @@
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/Venues.pdb
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/Venues.genruntimeconfig.cache
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/ref/Venues.dll
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Resources/plane.png
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Resources/home.png
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Resources/save.png
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Resources/user.png
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Resources/add.png
+/Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resizetizer/r/Resources/map.png
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/CommunityToolkit.Mvvm.stamp
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.CSharp.stamp
 /Users/sotirioskoukoumtzis/IdeaProjects/Venues/Venues/obj/Debug/net8.0-ios/iossimulator-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp

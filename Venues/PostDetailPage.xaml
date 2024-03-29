@@ -12,11 +12,13 @@
             <Entry x:Name="experienceEntry"/>
             <Label x:Name="nameLabel"
                    Text="{Binding name}"
-                   FontAttributes="Bold"/>
+                   FontAttributes="Bold"
+                   FontSize="20"/>
             <Label x:Name="addressLabel"
                    Grid.Row="1"
                    Text="{Binding address}"
-                   TextColor="DodgerBlue"/>
+                   TextColor="DodgerBlue"
+                   FontSize="15"/>
             <Button x:Name="deleteButton"
                 Text="Delete"
                 BackgroundColor="{StaticResource Blue}"
